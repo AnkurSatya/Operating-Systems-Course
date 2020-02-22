@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <pthread.h>
-#define NUM_THREADS 4
+#define NUM_THREADS 5
 
 void *threadFnc (void *pArg)
 {
